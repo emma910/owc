@@ -1,0 +1,7 @@
+# C++ port build outputs (self-contained folder)
+out/
+build/
+*.obj
+*.pdb
+*.ilk
+*.exp
