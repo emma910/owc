@@ -142,6 +142,7 @@ cpp/
 │   ├── state.h             lock-free frame snapshot exchange
 │   ├── util.h              clock / precise-sleep helpers
 │   └── color_lut.h         color lookup table
+├── owc.cfg		           	config
 ├── Interception/           vendored driver library, installer and licenses
 └── out/                    build output (generated)
 ```
